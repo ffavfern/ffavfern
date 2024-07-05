@@ -1,14 +1,14 @@
 # Hi, I'm Juthamas Naktrakul 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ffavfern&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:your-email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/juthamas-naktrakul-1134192b8/)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:Juthamas.ntk@gmail.com)
 
 ---
 
 ### About Me
 
-I am a passionate and detail-oriented **Junior Front-end and Full-stack Developer** with a strong foundation in HTML, CSS, JavaScript, and frameworks such as TailwindCSS, Bootstrap5, and DaisyUI. With hands-on experience in WordPress customization, front-end and back-end development, and UX/UI design, I am committed to creating responsive and user-friendly web applications. Adept at collaborating with cross-functional teams to deliver projects that meet client expectations.
+I am a passionate and detail-oriented **Junior Full-stack Developer** with a strong foundation in HTML, CSS, JavaScript, and frameworks such as TailwindCSS, Bootstrap5, and DaisyUI. With hands-on experience in WordPress customization, front-end and back-end development, and UX/UI design, I am committed to creating responsive and user-friendly web applications. Adept at collaborating with cross-functional teams to deliver projects that meet client expectations.
 
 ---
 
@@ -47,9 +47,10 @@ I am a passionate and detail-oriented **Junior Front-end and Full-stack Develope
 **Bachelor of Science in Computer Science**  
 *Sukhothai Thammathirat Open University*  
 *2023 - 2026*  
-- Current GPA: 3.65
 
-**Vocational Certificate (ปวส.)**
+**High Vocational Certificate Program in Information Technology and Communication**
+*Chiang Mai Technical College*  
+*2020 - 2022*  
 
 ---
 
@@ -61,11 +62,17 @@ I am a passionate and detail-oriented **Junior Front-end and Full-stack Develope
 - Customized WordPress themes and plugins to meet client specifications.
 - Coordinated with clients to gather requirements and provide project updates.
 
-**UX/UI Designer**  
-*June 2022 - December 2022*  
+**Graphic & UX/UI Designer**  
+*June 2023 - December 2023*  
 - Designed user-friendly interfaces for web and mobile applications.
 - Created wireframes, mockups, and prototypes to visualize design concepts.
 - Collaborated with developers to ensure seamless implementation of designs.
+
+**Full-Stack Developer (Internship)**  
+*June 2023 - December 2023*  
+- Wordpress Custom Theme
+- Website Cloning
+- 
 
 **Assistant Manager**  
 *January 2022 - May 2022*  
@@ -74,27 +81,10 @@ I am a passionate and detail-oriented **Junior Front-end and Full-stack Develope
 
 ---
 
-### 💼 Projects
-
-**[Project Name]**  
-*Brief description of the project, your role, technologies used, and the outcome.*
-
-**[Project Name]**  
-*Brief description of the project, your role, technologies used, and the outcome.*
-
----
-
-### 📜 Certifications
-
-- Front-end Developer Certification (if applicable)
-- Software Engineer Certification (if applicable)
-
----
-
 ### 🌐 Languages
 
 - Thai (Native)
-- English (Proficient)
+- English (Basic)
 
 ---
 
