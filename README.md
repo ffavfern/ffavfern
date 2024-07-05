@@ -1,31 +1,103 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juthamas Naktrakul
-==========================================================================================================================================
+# Hi, I'm Juthamas Naktrakul 👋
 
-Junior Full-Stack Developer
----------------------------
+![Profile Views](https://komarev.com/ghpvc/?username=ffavfern&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:your-email@example.com)
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [Juthamas.ntk@gmail.com](mailto:Juthamas.ntk@gmail.com)
-* 🧠  I'm learning Vue, Angular
+---
 
-### Skills
+### About Me
 
+I am a passionate and detail-oriented **Junior Front-end and Full-stack Developer** with a strong foundation in HTML, CSS, JavaScript, and frameworks such as TailwindCSS, Bootstrap5, and DaisyUI. With hands-on experience in WordPress customization, front-end and back-end development, and UX/UI design, I am committed to creating responsive and user-friendly web applications. Adept at collaborating with cross-functional teams to deliver projects that meet client expectations.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+---
 
+### 🛠 Skills
 
-### Socials
+#### Front-end Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-38B2AC?style=flat&logo=daisyui&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/ffavfern" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+#### Back-end Development:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-### Badges
+#### Full-stack Development:
+![MERN Stack](https://img.shields.io/badge/MERN-3B5998?style=flat&logo=mongodb&logoColor=white)
 
-<b>My GitHub Stats</b>
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Capcut](https://img.shields.io/badge/Capcut-000000?style=flat&logo=capcut&logoColor=white)
+![Sketchup](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white)
 
-<a href="http://www.github.com/ffavfern"><img src="https://github-readme-stats.vercel.app/api?username=ffavfern&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ffavfern's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ffavfern"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ffavfern&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 📚 Education
 
-<a href="https://github.com/ffavfern" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffavfern&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Bachelor of Science in Computer Science**  
+*Sukhothai Thammathirat Open University*  
+*2023 - 2026*  
+- Current GPA: 3.65
+
+**Vocational Certificate (ปวส.)**
+
+---
+
+### 🏆 Experience
+
+**Freelance Web Developer**  
+*January 2023 - Present*  
+- Developed and maintained responsive websites using HTML, CSS, JavaScript, and WordPress.
+- Customized WordPress themes and plugins to meet client specifications.
+- Coordinated with clients to gather requirements and provide project updates.
+
+**UX/UI Designer**  
+*June 2022 - December 2022*  
+- Designed user-friendly interfaces for web and mobile applications.
+- Created wireframes, mockups, and prototypes to visualize design concepts.
+- Collaborated with developers to ensure seamless implementation of designs.
+
+**Assistant Manager**  
+*January 2022 - May 2022*  
+- Managed day-to-day operations, including customer service and sales.
+- Coordinated with technicians and handled administrative tasks.
+
+---
+
+### 💼 Projects
+
+**[Project Name]**  
+*Brief description of the project, your role, technologies used, and the outcome.*
+
+**[Project Name]**  
+*Brief description of the project, your role, technologies used, and the outcome.*
+
+---
+
+### 📜 Certifications
+
+- Front-end Developer Certification (if applicable)
+- Software Engineer Certification (if applicable)
+
+---
+
+### 🌐 Languages
+
+- Thai (Native)
+- English (Proficient)
+
+---
+
+Feel free to explore my repositories to see the work I've done. I'm always open to collaborating on exciting projects and learning new things.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ffavfern&theme=dark)](https://git.io/streak-stats)
