@@ -1,7 +1,7 @@
 # Hi, I'm Juthamas Naktrakul 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ffavfern&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/Email-LinkedIn-blue)]((https://www.linkedin.com/in/juthamas-naktrakul-1134192b8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]((https://www.linkedin.com/in/juthamas-naktrakul-1134192b8/))
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:Juthamas.ntk@gmail.com)
 
 ---
